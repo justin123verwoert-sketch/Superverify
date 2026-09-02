@@ -1,0 +1,7 @@
+*{box-sizing:border-box}body{margin:0;background:#191a1d;color:#e8e8ea;font:16px/1.55 Arial,sans-serif}
+.card{max-width:1325px;margin:0 auto;padding:0 105px 35px;background:#292a2e;min-height:100vh}
+header{font-size:23px;padding:18px 0 24px;border-bottom:1px solid #3b3c40}
+.shield{font-size:25px;margin-right:8px}section{margin:27px 0}h2{font-size:22px;margin:0 0 2px}p{margin:0;font-size:18px}
+button{margin-top:15px;background:#5865f2;color:white;border:0;border-radius:7px;padding:12px 20px;font-size:16px;font-weight:700;cursor:pointer}
+button:hover{filter:brightness(1.08)}.privacy{margin-top:15px;color:#aeb0b6;font-size:13px;max-width:850px}
+@media(max-width:700px){.card{padding:0 25px 30px}section{margin:22px 0}}
